@@ -1,28 +1,28 @@
-========================================================Os números são iguais
-========================================================Os números são iguais
 ========================================================
- | 5   x    1 =    5    |
-| 5   x    2 =   10    |
-| 5   x    3 =   15    |
-| 5   x    4 =   20    |
-| 5   x    5 =   25    |
-| 5   x    6 =   30    |
-| 5   x    7 =   35    |
-| 5   x    8 =   40    |
-| 5   x    9 =   45    |
-| 5   x   10 =   50    |
+	Palavra:  ola
+	Criptografia: rod
+========================================================
+	Criptografia:  rod
+	Descriptografia: ola
+========================================================
+ | 6   x    1 =    6    |
+| 6   x    2 =   12    |
+| 6   x    3 =   18    |
+| 6   x    4 =   24    |
+| 6   x    5 =   30    |
+| 6   x    6 =   36    |
+| 6   x    7 =   42    |
+| 6   x    8 =   48    |
+| 6   x    9 =   54    |
+| 6   x   10 =   60    |
 
-========================================================	O MENOR número digitado foi 6.
-  O MAIOR número digitado foi 9.
-========================================================
-Os números são iguais
-========================================================
-	O MENOR número digitado foi 4.
-  O MAIOR número digitado foi 90.
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
-          Pessoas pesquisadas: 1
-          Homens: 1
-          Mulheres: 0
-          Média das idades: 23.0
-          Média das idades dos homens: 23.0
-          Média das idades das mulheres: 0
+          Pessoas pesquisadas: 2
+          Homens: 0
+          Mulheres: 2
+          Média das idades: 83.0
+          Média das idades dos homens: 0
+          Média das idades das mulheres: 83.0
+========================================================
+	O MENOR número digitado foi 5.
+  O MAIOR número digitado foi 9.
