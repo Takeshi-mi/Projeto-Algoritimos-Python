@@ -1,9 +1,9 @@
 # Projeto Algoritmos Python
 Projeto desenvolvido em sala de aula como atividade avaliativa da matéria Algorítmos no 1º semestre do Curso de graduação de Análise e Desenvolvimento de Sistemas.
-Descrição do projeto: 
-... 
-...
-...
+
+Foi um projetinho que gostei bastante de fazer. Aprendi lógica de programação e python. A princípio não precisava enfeitar e deixar bonitinho, mas fui atrás de aprender
+como colocar cores no terminal, como fazer as artes em textos. Pelas imagens é possível ver um pouco do resultado. 
+Mesmo sendo um código sem interface gráfica, ele está bonito e agradável para o usuário utilizar pois a saída no terminal está toda personalizada.
 
 
 Para ver o projeto sendo executado, abrir o arquivo main.py
