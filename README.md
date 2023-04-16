@@ -39,7 +39,7 @@ Mesmo sendo um código sem interface gráfica, ele está bonito e agradável par
 - Definir funções em Python
 
 ### Como executar?
-Para ver o projeto sendo executado,  basta abrir o arquivo main.py e colar em alguma IDE de python. 
+Para ver o projeto sendo executado,  basta abrir o arquivo [main.py](https://github.com/Takeshi-mi/Projeto-Algoritimos-Python/blob/main/main.py) e colar em alguma IDE de python. 
 Recomendo o Replit que é uma IDE 100% online e permite rodar mesmo que sua máquina seja fraca. 
 [https://replit.com/~](https://replit.com/~)
 
