@@ -21,3 +21,20 @@ Para ver o projeto sendo executado, abrir o arquivo main.py
 ![image](https://user-images.githubusercontent.com/101356765/210271818-381f6719-c236-41e7-86fe-1f405a701241.png)
 
 ![image](https://user-images.githubusercontent.com/101356765/210271934-8a72e14d-2683-45c8-8991-0e30e755fdee.png)
+
+### Tecnologias Utilizadas
+- Python
+- IDE online Replit
+- IDE local Pycharm
+
+### Conhecimentos Adquiridos
+- Algoritmos
+- Lógica de programação
+- Loops for e while
+- Validação de entrada de dados pelo usuário
+- Importar bibliotecas
+- Declarar variáveis
+- operadores Aritiméticos 
+- Crição de Menu
+- Manipular cores no terminal
+- Desenhos em código ASCII
