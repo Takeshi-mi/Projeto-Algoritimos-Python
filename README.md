@@ -38,3 +38,5 @@ Para ver o projeto sendo executado, abrir o arquivo main.py
 - Crição de Menu
 - Manipular cores no terminal
 - Desenhos em código ASCII
+- Definir funções em Python
+
