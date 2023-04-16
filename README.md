@@ -6,8 +6,6 @@ como colocar cores no terminal, como fazer as artes em textos. Pelas imagens é 
 Mesmo sendo um código sem interface gráfica, ele está bonito e agradável para o usuário utilizar pois a saída no terminal está toda personalizada.
 
 
-Para ver o projeto sendo executado, abrir o arquivo main.py
-
 ![image](https://user-images.githubusercontent.com/101356765/210271772-2044b123-6963-47bd-a4b8-e366ae0e2ff1.png)
 
 ![image](https://user-images.githubusercontent.com/101356765/210271783-f9dbca57-3aa2-434a-983f-ed312458c639.png)
@@ -39,4 +37,9 @@ Para ver o projeto sendo executado, abrir o arquivo main.py
 - Manipular cores no terminal
 - Desenhos em código ASCII
 - Definir funções em Python
+
+### Como executar?
+Para ver o projeto sendo executado,  basta abrir o arquivo main.py e colar em alguma IDE de python. 
+Recomendo o Replit que é uma IDE 100% online e permite rodar mesmo que sua máquina seja fraca. 
+[https://replit.com/~](https://replit.com/~)
 
